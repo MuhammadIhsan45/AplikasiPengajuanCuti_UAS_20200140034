@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <Button
+        android:id="@+id/bt_lihat"
+        android:layout_width="161dp"
+        android:layout_height="70dp"
+        android:background="@drawable/custom_login_btn"
+        android:fontFamily="@font/amaranth"
+        android:text="LIHAT DAFTAR "
+        app:backgroundTint="#00BCD4"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/bt_sakit"
+        app:layout_constraintVertical_bias="0.383" />
+
+    <Button
+        android:id="@+id/bt_darurat"
+        android:layout_width="161dp"
+        android:layout_height="70dp"
+        android:background="@drawable/custom_login_btn"
+        android:fontFamily="@font/amaranth"
+        android:text="CUTI DARURAT"
+        app:backgroundTint="#00BCD4"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.594" />
+
+    <Button
+        android:id="@+id/bt_sakit"
+        android:layout_width="161dp"
+        android:layout_height="70dp"
+        android:layout_marginTop="228dp"
+        android:background="@drawable/custom_login_btn"
+        android:fontFamily="@font/amaranth"
+        android:text="CUTI SAKIT"
+        app:backgroundTint="#00BCD4"
+        app:layout_constraintBottom_toTopOf="@+id/bt_darurat"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.849" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/amaranth"
+        android:text="Jenis Cuti"
+        android:textColor="@color/black"
+        android:textSize="34sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/bt_tahunan"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.495"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.814" />
+
+    <Button
+        android:id="@+id/bt_tahunan"
+        android:layout_width="161dp"
+        android:layout_height="70dp"
+        android:background="@drawable/custom_login_btn"
+        android:clickable="true"
+        android:fontFamily="@font/amaranth"
+        android:text="CUTI TAHUNAN"
+        app:backgroundTint="#00BCD4"
+        app:layout_constraintBottom_toTopOf="@+id/bt_sakit"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.947" />
+
+
+    <ImageView
+        android:layout_width="389dp"
+        android:layout_height="100dp"
+        android:adjustViewBounds="true"
+        android:cropToPadding="true"
+        android:src="@drawable/logo_tahunann"
+        app:layout_constraintBottom_toTopOf="@+id/textView6"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <LinearLayout
+        android:layout_width="420dp"
+        android:layout_height="117dp"
+        android:layout_marginTop="108dp"
+        android:background="@drawable/custom_login_btn"
+        android:gravity="center"
+        android:padding="20dp"
+        android:weightSum="1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/bt_lihat">
+
+    </LinearLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

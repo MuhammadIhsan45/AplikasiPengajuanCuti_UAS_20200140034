@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Aplikasi/APKUAS/app/src/main/res/drawable-v24/custom_button.xml" value="0.16" />
+        <entry key="..\:/Aplikasi/APKUAS/app/src/main/res/drawable-v24/custom_input.xml" value="0.16" />
+        <entry key="..\:/Aplikasi/APKUAS/app/src/main/res/drawable-v24/custom_input2.xml" value="0.16" />
+        <entry key="..\:/Aplikasi/APKUAS/app/src/main/res/drawable-v24/ic_baseline_add_24.xml" value="0.16" />
+        <entry key="..\:/Aplikasi/APKUAS/app/src/main/res/drawable-v24/ic_baseline_email_24.xml" value="0.1" />
+        <entry key="..\:/Aplikasi/APKUAS/app/src/main/res/drawable-v24/ic_baseline_lock_24.xml" value="0.16" />
+        <entry key="..\:/Aplikasi/APKUAS/app/src/main/res/drawable-v24/ic_baseline_remove_red_eye_24.xml" value="0.16" />
+        <entry key="..\:/Aplikasi/APKUAS/app/src/main/res/drawable-v24/ic_launcher_background.xml" value="0.16" />
+        <entry key="..\:/Aplikasi/APKUAS/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Aplikasi/APKUAS/app/src/main/res/drawable/custom_login_bg.xml" value="0.1" />
+        <entry key="..\:/Aplikasi/APKUAS/app/src/main/res/drawable/custom_login_btn.xml" value="0.1" />
+        <entry key="..\:/Aplikasi/APKUAS/app/src/main/res/drawable/custom_login_text.xml" value="0.1" />
+        <entry key="..\:/Aplikasi/APKUAS/app/src/main/res/drawable/custom_status.xml" value="0.1" />
+        <entry key="..\:/Aplikasi/APKUAS/app/src/main/res/drawable/ic_launcher_background.xml" value="0.16" />
+        <entry key="..\:/Aplikasi/APKUAS/app/src/main/res/layout/activity_cuti_darurat.xml" value="0.264" />
+        <entry key="..\:/Aplikasi/APKUAS/app/src/main/res/layout/activity_cuti_sakit.xml" value="0.264" />
+        <entry key="..\:/Aplikasi/APKUAS/app/src/main/res/layout/activity_cuti_tahunan.xml" value="0.264" />
+        <entry key="..\:/Aplikasi/APKUAS/app/src/main/res/layout/activity_daftar_data.xml" value="0.25" />
+        <entry key="..\:/Aplikasi/APKUAS/app/src/main/res/layout/activity_data.xml" value="0.22826086956521738" />
+        <entry key="..\:/Aplikasi/APKUAS/app/src/main/res/layout/activity_edit_teman.xml" value="0.22826086956521738" />
+        <entry key="..\:/Aplikasi/APKUAS/app/src/main/res/layout/activity_jenis_btn_hrd.xml" value="0.176" />
+        <entry key="..\:/Aplikasi/APKUAS/app/src/main/res/layout/activity_jenis_cuti.xml" value="0.264" />
+        <entry key="..\:/Aplikasi/APKUAS/app/src/main/res/layout/activity_login_hrd.xml" value="0.22826086956521738" />
+        <entry key="..\:/Aplikasi/APKUAS/app/src/main/res/layout/activity_login_karyawan.xml" value="0.264" />
+        <entry key="..\:/Aplikasi/APKUAS/app/src/main/res/layout/activity_login_manager.xml" value="0.22826086956521738" />
+        <entry key="..\:/Aplikasi/APKUAS/app/src/main/res/layout/activity_login_supervisor.xml" value="0.22826086956521738" />
+        <entry key="..\:/Aplikasi/APKUAS/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Aplikasi/APKUAS/app/src/main/res/layout/activity_main1.xml" value="0.264" />
+        <entry key="..\:/Aplikasi/APKUAS/app/src/main/res/layout/activity_main2.xml" value="0.264" />
+        <entry key="..\:/Aplikasi/APKUAS/app/src/main/res/layout/activity_main2_cuti_tahunan.xml" value="0.264" />
+        <entry key="..\:/Aplikasi/APKUAS/app/src/main/res/layout/activity_main_lag_hrd.xml" value="0.22826086956521738" />
+        <entry key="..\:/Aplikasi/APKUAS/app/src/main/res/layout/activity_main_log_admin.xml" value="0.264" />
+        <entry key="..\:/Aplikasi/APKUAS/app/src/main/res/layout/activity_main_log_hrd.xml" value="0.2" />
+        <entry key="..\:/Aplikasi/APKUAS/app/src/main/res/layout/activity_main_log_karyawan.xml" value="0.264" />
+        <entry key="..\:/Aplikasi/APKUAS/app/src/main/res/layout/activity_main_log_manager.xml" value="0.264" />
+        <entry key="..\:/Aplikasi/APKUAS/app/src/main/res/layout/activity_main_log_supervisor.xml" value="0.22826086956521738" />
+        <entry key="..\:/Aplikasi/APKUAS/app/src/main/res/layout/activity_update_data.xml" value="0.4" />
+        <entry key="..\:/Aplikasi/APKUAS/app/src/main/res/layout/row_data_karyawan.xml" value="0.25" />
+        <entry key="..\:/Aplikasi/APKUAS/app/src/main/res/layout/row_data_teman.xml" value="0.4" />
+        <entry key="..\:/Aplikasi/APKUAS/app/src/main/res/menu/pop_menu.xml" value="0.25" />
+        <entry key="..\:/Aplikasi/APKUAS/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.121" />
+        <entry key="..\:/Aplikasi/APKUAS/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.121" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
